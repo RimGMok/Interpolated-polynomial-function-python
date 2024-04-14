@@ -49,3 +49,4 @@ for point in points:
     else: print(f"({point[0]:g}, {point[1]:g})", end="")
     
 print("\nInterpolated polynomial function :", fitted_function)
+input("\nAppuyez sur n'importe quelle touche pour quitter...")
