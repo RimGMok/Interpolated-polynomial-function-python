@@ -12,5 +12,5 @@ A Python program that interpolates a set of points using the **Lagrange interpol
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your_username/interpolation_project.git
-cd interpolation_project
+git clone https://github.com/RimGMok/Interpolated-polynomial-function-python.git
+cd Interpolated-polynomial-function-python.git
